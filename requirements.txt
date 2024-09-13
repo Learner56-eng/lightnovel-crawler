@@ -1,4 +1,6 @@
 # app requirements
+flask
+# other dependencies
 gunicorn
 ascii
 regex
