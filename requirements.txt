@@ -1,4 +1,5 @@
 # app requirements
+gunicorn
 ascii
 regex
 packaging
